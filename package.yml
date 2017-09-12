@@ -1,0 +1,22 @@
+name       : python-rawkit
+version    : 0.5.0
+release    : 1
+source     :
+    - https://github.com/photoshell/rawkit/archive/v0.5.0.tar.gz : 9270941d3293f2814dafaf548e20e6727443ec668207a99afafc875027b3bab8
+license    : MIT
+component  : programming.python
+summary    : CTypes based LibRaw bindings
+description: |
+    rawkit (pronounced rocket) is a ctypes-based LibRaw binding for Python inspired by the Wand API.
+builddeps  :
+    - pkgconfig(python-2.7)
+    - pkgconfig(python3)
+    - python-setuptools
+rundeps  :
+    - libraw
+setup      : |
+    %python_setup
+    %python3_setup
+install    : |
+    %python_install
+    %python3_install

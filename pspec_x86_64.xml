@@ -1,0 +1,91 @@
+<PISI>
+    <Source>
+        <Name>python-rawkit</Name>
+        <Packager>
+            <Name>Justin Zobel</Name>
+            <Email>justin@solus-project.com</Email>
+        </Packager>
+        <License>MIT</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">CTypes based LibRaw bindings</Summary>
+        <Description xml:lang="en">rawkit (pronounced rocket) is a ctypes-based LibRaw binding for Python inspired by the Wand API.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-rawkit</Name>
+        <Summary xml:lang="en">CTypes based LibRaw bindings</Summary>
+        <Description xml:lang="en">rawkit (pronounced rocket) is a ctypes-based LibRaw binding for Python inspired by the Wand API.
+</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/bindings.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/bindings.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/callbacks.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/callbacks.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/errors.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/errors.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/structs_16.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/structs_16.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/structs_17.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/libraw/structs_17.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit-0.5.0-py2.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit-0.5.0-py2.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit-0.5.0-py2.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit-0.5.0-py2.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit-0.5.0-py2.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/__init__.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/errors.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/errors.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/metadata.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/metadata.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/options.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/options.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/raw.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/raw.pyc</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/util.py</Path>
+            <Path fileType="library">/usr/lib/python2.7/site-packages/rawkit/util.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__pycache__/bindings.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__pycache__/callbacks.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__pycache__/errors.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__pycache__/structs_16.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/__pycache__/structs_17.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/bindings.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/callbacks.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/errors.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/structs_16.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/libraw/structs_17.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit-0.5.0-py3.5.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit-0.5.0-py3.5.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit-0.5.0-py3.5.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit-0.5.0-py3.5.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit-0.5.0-py3.5.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__pycache__/__init__.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__pycache__/errors.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__pycache__/metadata.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__pycache__/options.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__pycache__/raw.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/__pycache__/util.cpython-35.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/errors.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/metadata.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/options.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/raw.py</Path>
+            <Path fileType="library">/usr/lib/python3.5/site-packages/rawkit/util.py</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2017-09-12</Date>
+            <Version>0.5.0</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Justin Zobel</Name>
+            <Email>justin@solus-project.com</Email>
+        </Update>
+    </History>
+</PISI>
