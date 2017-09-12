@@ -1,8 +1,8 @@
 name       : python-rawkit
-version    : 0.5.0
-release    : 1
+version    : 0.6.0
+release    : 2
 source     :
-    - https://github.com/photoshell/rawkit/archive/v0.5.0.tar.gz : 9270941d3293f2814dafaf548e20e6727443ec668207a99afafc875027b3bab8
+    - https://github.com/photoshell/rawkit/archive/v0.6.0.tar.gz : c07971ddbca9568cef93753ebb06a72b5b622f9b827a5d8bf96f2a137cc4219e
 license    : MIT
 component  : programming.python
 summary    : CTypes based LibRaw bindings
@@ -12,7 +12,7 @@ builddeps  :
     - pkgconfig(python-2.7)
     - pkgconfig(python3)
     - python-setuptools
-rundeps  :
+rundeps    :
     - libraw
 setup      : |
     %python_setup
