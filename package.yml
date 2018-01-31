@@ -1,6 +1,6 @@
 name       : python-rawkit
 version    : 0.6.0
-release    : 2
+release    : 3
 source     :
     - https://github.com/photoshell/rawkit/archive/v0.6.0.tar.gz : c07971ddbca9568cef93753ebb06a72b5b622f9b827a5d8bf96f2a137cc4219e
 license    : MIT
