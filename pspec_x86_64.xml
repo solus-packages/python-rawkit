@@ -3,8 +3,8 @@
         <Name>python-rawkit</Name>
         <Homepage>https://github.com/photoshell/rawkit</Homepage>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -20,46 +20,46 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/bindings.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/callbacks.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/errors.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/structs_16.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/structs_17.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/__pycache__/structs_18.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/bindings.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/callbacks.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/errors.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/structs_16.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/structs_17.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/libraw/structs_18.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit-0.6.0-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit-0.6.0-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit-0.6.0-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit-0.6.0-py3.7.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit-0.6.0-py3.7.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__pycache__/__init__.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__pycache__/errors.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__pycache__/metadata.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__pycache__/options.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__pycache__/raw.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/__pycache__/util.cpython-37.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/errors.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/metadata.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/options.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/raw.py</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/rawkit/util.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/bindings.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/callbacks.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/errors.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/structs_16.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/structs_17.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/__pycache__/structs_18.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/bindings.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/callbacks.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/errors.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/structs_16.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/structs_17.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/libraw/structs_18.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit-0.6.0-py3.9.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit-0.6.0-py3.9.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit-0.6.0-py3.9.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit-0.6.0-py3.9.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit-0.6.0-py3.9.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__pycache__/__init__.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__pycache__/errors.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__pycache__/metadata.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__pycache__/options.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__pycache__/raw.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/__pycache__/util.cpython-39.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/errors.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/metadata.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/options.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/raw.py</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/rawkit/util.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2020-06-14</Date>
+        <Update release="6">
+            <Date>2021-07-28</Date>
             <Version>0.6.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
